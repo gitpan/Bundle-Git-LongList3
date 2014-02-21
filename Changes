@@ -1,0 +1,5 @@
+Revision history for Perl extension Bundle::Git::LongList3.
+
+0.01  Thu Feb 20 19:15:39 2014
+   - original version; created by h2xs 1.23 with options
+      -ABX -b 5.5.0 -n Bundle::Git::LongList

@@ -1,0 +1,24 @@
+Bundle::Git::LongList3 version 0.01
+====================================
+
+INSTALLATION
+
+To install this module type the following:
+
+   cpan Bundle::Git::LongList3
+
+DEPENDENCIES
+
+This module requires these other modules and libraries:
+
+  Test
+
+COPYRIGHT AND LICENSE
+
+Copyright (C) 2014 by Kevin W. Henwood
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself, or, at your option, any later 
+version of Perl 5 you may have available.
+
+

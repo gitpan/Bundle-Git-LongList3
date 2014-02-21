@@ -1,0 +1,21 @@
+---
+abstract: 'Installs git modules'
+author:
+  - 'Kevin W. Henwood <Khen1950fx@yahoo.com>'
+build_requires:
+  ExtUtils::MakeMaker: '0'
+configure_requires:
+  ExtUtils::MakeMaker: '0'
+dynamic_config: 1
+generated_by: 'ExtUtils::MakeMaker version 6.88, CPAN::Meta::Converter version 2.133380'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: '1.4'
+name: Bundle-Git-LongList3
+no_index:
+  directory:
+    - t
+    - inc
+requires: {}
+version: '0.01'
